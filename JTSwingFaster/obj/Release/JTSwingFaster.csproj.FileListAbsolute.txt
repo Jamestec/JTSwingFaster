@@ -1,0 +1,10 @@
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\bin\Release\JTSwingFaster.dll
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\bin\Release\JTSwingFaster.pdb
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\obj\Release\JTSwingFaster.csprojAssemblyReference.cache
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\obj\Release\JTSwingFaster.csproj.CoreCompileInputs.cache
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\obj\Release\JTSwingFaster.dll
+C:\Users\JamesTemp\source\repos\JTSwingFaster\JTSwingFaster\obj\Release\JTSwingFaster.pdb
+G:\Users\Public\Downloads\Bannerlord_Versions\Mount & Blade II Bannerlord_Stable\Modules\JTForeverLearning\bin\Win64_Shipping_Client\JTSwingFaster.dll
+G:\Users\Public\Downloads\Bannerlord_Versions\Mount & Blade II Bannerlord_Stable\Modules\JTForeverLearning\bin\Win64_Shipping_Client\JTSwingFaster.pdb
+G:\Users\Public\Downloads\Bannerlord_Versions\Mount & Blade II Bannerlord_Stable\Modules\JTSwingFaster\bin\Win64_Shipping_Client\JTSwingFaster.dll
+G:\Users\Public\Downloads\Bannerlord_Versions\Mount & Blade II Bannerlord_Stable\Modules\JTSwingFaster\bin\Win64_Shipping_Client\JTSwingFaster.pdb
